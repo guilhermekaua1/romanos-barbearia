@@ -54,7 +54,7 @@ export function ReviewsCarousel() {
   }
 
   return (
-    <section className="py-12 md:py-20 bg-zinc-900">
+    <section className="py-12 md:py-20 bg-zinc-950">
       <div className="container mx-auto px-4">
         <div className="text-center mb-8 md:mb-12">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">

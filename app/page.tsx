@@ -1,4 +1,5 @@
 import { HeroSection } from "@/components/hero-section"
+import { AboutSection } from "@/components/clube-romanos"
 import { ServicesSection } from "@/components/services-section"
 import { AppDownloadSection } from "@/components/app-download-section"
 import { ReviewsCarousel } from "@/components/reviews-carousel"
@@ -10,6 +11,7 @@ export default function Home() {
     <main className="min-h-screen bg-zinc-950">
       <HeroSection />
       <AppDownloadSection />
+      <AboutSection />
       <ReviewsCarousel />
       <ServicesSection />
       <LocationSection />
